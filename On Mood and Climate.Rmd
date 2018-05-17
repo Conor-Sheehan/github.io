@@ -1,8 +1,8 @@
 ---
-title: "Mood and Climate"
+title: "Mood & Climate"
 author: "Conor Sheehan"
-date: "5/17/2018"
-output: html_document
+date: "5/16/2018"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
