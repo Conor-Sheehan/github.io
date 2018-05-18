@@ -3,4 +3,4 @@ Climate and Mood is a Data Science tutorial on the entire fundamental data scien
 
 I created this exciting tutorial to explore several facets of our climate including average temperature across seasons as well as the rainfall in relationship to social, emotional, and financial well-being of the people in different cities across the United States.
 
-Read the complete Mood and Climate Tutorial and Data Study within the On_Mood_and_Climate.md file. I added all graphical plots as .pngs on the github repo. Enjoy my tutorial!
+Read the complete Mood and Climate Tutorial and Data Study within the On_Mood_and_Climate2.md file. I added all graphical plots as .pngs on the github repo. Enjoy my tutorial!
